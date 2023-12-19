@@ -1,1 +1,0 @@
-import{y as a}from"./@vkontakte/icons-ec9bb119.js";import{c as o,aL as e}from"./index-12fcb1ba.js";const n="_Caption--caps_400i0_1",i={1:"_Caption--level-1_400i0_5",2:"_Caption--level-2_400i0_19",3:"_Caption--level-3_400i0_33"},s=({className:s,level:l="1",caps:p,Component:t="span",normalize:_=!0,...m})=>a(e,{Component:t,normalize:_,className:o(s,p&&n,i[l]),...m});export{s as C};
